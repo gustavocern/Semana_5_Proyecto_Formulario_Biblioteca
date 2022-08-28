@@ -16,7 +16,7 @@ namespace Semana_5_Proyecto_Formulario_Biblioteca
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Menu());
         }
     }
 }
